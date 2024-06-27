@@ -1,0 +1,4 @@
+nltk(pip install nltk==3.8.1)
+streamlit(pip install streamlit==1.36.0)
+scikit-learn(pip install scikit-learn==1.5.0)
+numpy(pip install numpy==2.0.0)
